@@ -1,0 +1,1 @@
+Este conjunto de datos describe las temperaturas mínimas diarias entre los años (1981-1990) de la ciudad de Melbourne, Australia. Las unidades están dadas en grados Celsius.
