@@ -1,0 +1,1 @@
+Este conjunto de datos contiene información sobre el número de pasajeros que usaron los aviones. Las unidades esta en cientos. Tenemos un total de 144 meses y observaciones que van desde 1949 hasta 1960.
