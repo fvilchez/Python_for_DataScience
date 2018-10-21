@@ -1,0 +1,2 @@
+Conjunto de datos que describe el número de ventas de Shampoo a través de un período de tres años.
+Las unidades son ventas mensuales y se dispone de un total de 36 observaciones.
